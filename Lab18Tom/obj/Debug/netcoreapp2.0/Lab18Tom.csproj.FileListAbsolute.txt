@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\bin\Debug\netcoreapp2.0\Lab18Tom.deps.json
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\bin\Debug\netcoreapp2.0\Lab18Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\bin\Debug\netcoreapp2.0\Lab18Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\bin\Debug\netcoreapp2.0\Lab18Tom.dll
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\obj\Debug\netcoreapp2.0\Lab18Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\obj\Debug\netcoreapp2.0\Lab18Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\obj\Debug\netcoreapp2.0\Lab18Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\obj\Debug\netcoreapp2.0\Lab18Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\bin\Debug\netcoreapp2.0\Lab18Tom.pdb
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\obj\Debug\netcoreapp2.0\Lab18Tom.dll
+C:\Users\Tom\source\repos\Lab18---DatabaseFirst\Lab18Tom\obj\Debug\netcoreapp2.0\Lab18Tom.pdb
